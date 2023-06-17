@@ -8,10 +8,10 @@
 # Labs
 🐱‍👓 The Labs contain 7 independent labs. 
 
-- [ ] Lab00: Degrees and Tic-Tac-Toe
-- [ ] Lab01: Prerequisite Coding
-- [ ] Lab02: Pandas
-- [ ] Lab03: Data Cleaning and Visualization
-- [ ] Lab04: SQL
-- [ ] Lab05: Transformations and SQL
-- [ ] Lab06: Modeling, Summary Statistics, and Loss Functions
+- [x] Lab0: [Degrees](https://github.com/GreyPreacher/Harvard-CS50-AI/tree/main/degrees) and [Tic-Tac-Toe](https://github.com/GreyPreacher/Harvard-CS50-AI/tree/main/tictactoe)
+- [ ] Lab1: 
+- [ ] Lab2: 
+- [ ] Lab3: 
+- [ ] Lab4: 
+- [ ] Lab5: 
+- [ ] Lab6: 
