@@ -8,8 +8,8 @@
 # Labs
 🐱‍👓 The Labs contain 7 independent labs. 
 
-- [x] Lab0: [Degrees](https://github.com/GreyPreacher/Harvard-CS50-AI/tree/main/degrees) and [Tic-Tac-Toe](https://github.com/GreyPreacher/Harvard-CS50-AI/tree/main/tictactoe)
-- [ ] Lab1: 
+- [x] Lab0: [degrees](https://github.com/GreyPreacher/Harvard-CS50-AI/tree/main/degrees) and [Tic-Tac-Toe](https://github.com/GreyPreacher/Harvard-CS50-AI/tree/main/tictactoe)
+- [x] Lab1: [Kights](https://github.com/GreyPreacher/Harvard-CS50-AI/tree/main/kights) and [Minesweeper](https://github.com/GreyPreacher/Harvard-CS50-AI/tree/main/minesweeper)
 - [ ] Lab2: 
 - [ ] Lab3: 
 - [ ] Lab4: 
